@@ -16,16 +16,16 @@ Learn everything you need to about the subject of this `LinkedIn` project.
 ## Topics
 ```
 Introduction
-[ ] Welcome 1m 6s
+[x] Welcome 1m 6s
 
 1. DevOps Basics
-[ ] What is DevOps? 3m 27s
-[ ] DevOps core values: CAMS 3m 45s
-[ ] DevOps principles: The three ways 5m 54s
-[ ] Your DevOps playbook 3m 25s
-[ ] 10 practices for DevOps success: 10 through 6 3m 40s
-[ ] 10 practices for DevOps success: 5 through 1 4m 24s
-[ ] DevOps tools: The cart or the horse? 4m 7s[ ]
+[x] What is DevOps? 3m 27s
+[x] DevOps core values: CAMS 3m 45s
+[x] DevOps principles: The three ways 5m 54s
+[xﬁ] Your DevOps playbook 3m 25s
+[x] 10 practices for DevOps success: 10 through 6 3m 40s
+[x] 10 practices for DevOps success: 5 through 1 4m 24s
+[x] DevOps tools: The cart or the horse? 4m 7s[ ]
 
 2. DevOps: A Culture Problem
 [ ] The IT crowd and the coming storm 4m 42s
