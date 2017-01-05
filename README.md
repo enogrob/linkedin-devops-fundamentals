@@ -40,10 +40,10 @@ Introduction
 [ ] ITIL, ITSM, and the SDLC 5m 59s
 
 4. Infrastructure Automation
-[ ] Infrastructure as code 4m 41s
-[ ] Golden image to foil ball 6m 53s
-[ ] Immutable deployment 6m 59s
-[ ] Your infrastructure toolchain 4m 39s
+[x] Infrastructure as code 4m 41s
+[x] Golden image to foil ball 6m 53s
+[x] Immutable deployment 6m 59s
+[x] Your infrastructure toolchain 4m 39s
 
 5. Continuous Delivery
 [ ] Small + fast = better 4m 55s
